@@ -3,7 +3,7 @@
 
 ## 使用说明
 
-首先在[Releases](/zhimengsub/SubtitleCutter/releases/latest)下载`SubtitleCutter.exe`和`SubtitleCutter.bat`。
+首先在[Releases](https://github.com/zhimengsub/SubtitleCutter/releases/latest)下载`SubtitleCutter.exe`和`SubtitleCutter.bat`。
 
 > bat和exe需要在同一目录下，如果需要放在别的地方可以给bat创捷快捷方式，也支持拖放。
 
